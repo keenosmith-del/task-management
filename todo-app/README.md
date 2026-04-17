@@ -19,13 +19,13 @@ JavaScript (ES6)
 Fetch API
 → Sends requests to your backend
 
-# ⚙️ Backend
+# Backend
 Node.js
 → Runs your server
 Express.js
 → Handles routes and middleware
 
-# 🗄️ Database
+# Database
 MongoDB
 → Stores users and tasks
 Mongoose
@@ -58,7 +58,7 @@ Local storage (browser)
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ## Frontend
 - React
@@ -79,7 +79,7 @@ Local storage (browser)
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## 1. Clone the repository
 
