@@ -1,3 +1,3 @@
-const API_URL = "http://localhost:5050";
+const API_URL = "https://task-management-9j0y.onrender.com";
 
 export default API_URL;
