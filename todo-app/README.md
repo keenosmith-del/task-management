@@ -2,8 +2,8 @@
 
 > IMPORTANT
 > register with
-> test@gmail.com
-> test 
+> test@gmail.com and
+> password test 
 
 A full-stack to-do list web application built using React, Node.js, Express, and MongoDB. Users can register, log in, and manage their personal tasks securely.
 
