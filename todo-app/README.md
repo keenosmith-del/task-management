@@ -1,6 +1,6 @@
-# 📝 Full-Stack To-Do List Application
+# Full-Stack To-Do List Application
 
-> ⚠️ IMPORTANT
+> IMPORTANT
 > register with
 > test@gmail.com
 > test 
@@ -9,7 +9,7 @@ A full-stack to-do list web application built using React, Node.js, Express, and
 
 ---
 
-# 🎨 Frontend
+# Frontend
 React
 → Handles UI (login, register, tasks)
 Vite
@@ -31,11 +31,11 @@ MongoDB
 Mongoose
 → Defines schemas and interacts with MongoDB
 
-# 🔐 Authentication
+# Authentication
 JSON Web Token (JWT)
 → Secure login system
 
-# 🧠 Core Concepts Used
+# Core Concepts Used
 REST API
 CRUD operations (Create, Read, Update, Delete)
 Middleware (Express)
@@ -44,7 +44,7 @@ Local storage (browser)
 
 ---
 
-# 🚀 Features
+# Features
 
 - User registration and login (JWT authentication)
 - Create, read, update, and delete (CRUD) tasks
@@ -121,7 +121,7 @@ A username ending with @gmail.com
 A password
 Submit the form
 
-👉 You will be automatically logged in
+You will be automatically logged in
 
 2. Login (existing users)
 Click "Login"
@@ -139,7 +139,7 @@ Delete tasks
 4. Logout
 Click the Logout button
 You will be redirected to the Register page
-🔐 Middleware Rules
+Middleware Rules
 
 The backend enforces the following:
 
@@ -159,6 +159,3 @@ Add password hashing (bcrypt)
 Add task completion status
 Deploy application online
 
-
-Author
-Developed as part of a full-stack web development project.
